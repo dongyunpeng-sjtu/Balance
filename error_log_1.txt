@@ -1,0 +1,9 @@
+local variable 'other_data' referenced before assignment
+Traceback (most recent call last):
+  File "d:\vscode-files\balance\main.py", line 10, in <module>
+    window = MainWindow()
+  File "d:\vscode-files\balance\Main_Window.py", line 173, in __init__
+    self.restore_all_data()
+  File "d:\vscode-files\balance\Main_Window.py", line 2762, in restore_all_data
+    self.m.fp_s_amp1.setText(other_data['fp_s_amp1'])
+UnboundLocalError: local variable 'other_data' referenced before assignment

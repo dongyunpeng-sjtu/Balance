@@ -1,0 +1,9 @@
+'Ui_MainWindow' object has no attribute 'statistics_find_button'
+Traceback (most recent call last):
+  File "C:\Users\15113\Desktop\Balance114\main.py", line 10, in <module>
+    window = MainWindow()
+  File "C:\Users\15113\Desktop\Balance114\Main_Window.py", line 326, in __init__
+    self.build_connections()
+  File "C:\Users\15113\Desktop\Balance114\Main_Window.py", line 664, in build_connections
+    self.m.statistics_find_button.clicked.connect(self.statistic_find_button_clicked)
+AttributeError: 'Ui_MainWindow' object has no attribute 'statistics_find_button'

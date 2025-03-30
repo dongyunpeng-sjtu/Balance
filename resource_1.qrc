@@ -1,0 +1,112 @@
+<RCC>
+  <qresource prefix="button">
+    <file>resources/0_参数_修改参数定义.png</file>
+    <file>resources/1.png</file>
+    <file>resources/4.png</file>
+    <file>resources/add.png</file>
+    <file>resources/added.png</file>
+    <file>resources/ame.webp.png</file>
+    <file>resources/app.png</file>
+    <file>resources/back.png</file>
+    <file>resources/baocun.eps</file>
+    <file>resources/baxi.webp.png</file>
+    <file>resources/btn_close.png</file>
+    <file>resources/btn_ok.png</file>
+    <file>resources/cancels.png</file>
+    <file>resources/canna.webp.png</file>
+    <file>resources/china.webp.png</file>
+    <file>resources/close.png</file>
+    <file>resources/database.png</file>
+    <file>resources/database-add.png</file>
+    <file>resources/delete.png</file>
+    <file>resources/deletes .png</file>
+    <file>resources/edit.png</file>
+    <file>resources/edits .png</file>
+    <file>resources/eng.webp.png</file>
+    <file>resources/Font Awesome Cheatsheet.png</file>
+    <file>resources/fontawesome-webfont.ttf</file>
+    <file>resources/france.webp.png</file>
+    <file>resources/front.png</file>
+    <file>resources/Ger.webp.png</file>
+    <file>resources/graffle.png</file>
+    <file>resources/han.webp.png</file>
+    <file>resources/italy.webp.png</file>
+    <file>resources/jap.webp.png</file>
+    <file>resources/left.png</file>
+    <file>resources/line.png</file>
+    <file>resources/logo.png</file>
+    <file>resources/mex.webp.png</file>
+    <file>resources/msg_info.png</file>
+    <file>resources/msg_question.png</file>
+    <file>resources/printer.png</file>
+    <file>resources/rc_res_button.py</file>
+    <file>resources/Refresh.png</file>
+    <file>resources/right.png</file>
+    <file>resources/Rotor.png</file>
+    <file>resources/Rus.webp.png</file>
+    <file>resources/save.png</file>
+    <file>resources/saves.png</file>
+    <file>resources/smalllogo.png</file>
+    <file>resources/stop-error.png</file>
+    <file>resources/sub.png</file>
+    <file>resources/sub.psd</file>
+    <file>resources/sys3.png</file>
+    <file>resources/test-transparent.png</file>
+    <file>resources/tool.png</file>
+    <file>resources/tw.png</file>
+    <file>resources/UK.png</file>
+    <file>resources/xibanya.webp.png</file>
+    <file>resources/保存 (1).png</file>
+    <file>resources/保存.png</file>
+    <file>resources/编辑.png</file>
+    <file>resources/测试.png</file>
+    <file>resources/测试测试.png</file>
+    <file>resources/多通道频谱.png</file>
+    <file>resources/加号 (2).png</file>
+    <file>resources/加号.png</file>
+    <file>resources/加号-加粗.png</file>
+    <file>resources/减少.png</file>
+    <file>resources/减少3.png</file>
+    <file>resources/减少减去减号.png</file>
+    <file>resources/进入.png</file>
+    <file>resources/开发者管理.png</file>
+    <file>resources/取消.png</file>
+    <file>resources/添加加号 (1).png</file>
+    <file>resources/系统.png</file>
+    <file>resources/系统管理 (6).png</file>
+    <file>resources/tw.png</file>
+    <file>resources/added.png</file>
+    <file>resources/Rus.webp.png</file>
+    <file>resources/jap.webp.png</file>
+    <file>resources/france.webp.png</file>
+    <file>resources/Ger.webp.png</file>
+    <file>resources/ame.webp.png</file>
+    <file>resources/eng.webp.png</file>
+    <file>resources/china.webp.png</file>
+    <file>resources/ame.webp.png</file>
+    <file>resources/china.webp.png</file>
+    <file>resources/UK.png</file>
+    <file>resources/deletes .png</file>
+    <file>resources/button/FFT.png</file>
+    <file>resources/button/vsr.png</file>
+    <file>resources/btn_ok.png</file>
+    <file>resources/printer.png</file>
+    <file>resources/added.png</file>
+    <file>resources/sub.png</file>
+    <file>resources/button/front.png</file>
+    <file>resources/button/back.png</file>
+    <file>resources/button/delete.png</file>
+    <file>resources/button/fft.png</file>
+    <file>resources/button/close.png</file>
+    <file>resources/button/measure.png</file>
+    <file>resources/button/new_rotor.png</file>
+    <file>resources/button/rotors.png</file>
+    <file>resources/button/settings.png</file>
+  </qresource>
+  <qresource prefix="image">
+    <file>resources/smalllogo.png</file>
+    <file>resources/italy.webp.png</file>
+    <file>resources/logo.png</file>
+    <file>resources/Rotor.png</file>
+  </qresource>
+</RCC>
